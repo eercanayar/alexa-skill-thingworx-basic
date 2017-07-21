@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "parameter",
+          "type": "PARAMETER_LIST"
+        }
+      ],
+      "intent": "getParameter"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

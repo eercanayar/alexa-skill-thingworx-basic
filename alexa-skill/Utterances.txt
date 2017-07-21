@@ -1,0 +1,2 @@
+getParameter how is the {parameter}
+getParameter tell the {parameter}
